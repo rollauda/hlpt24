@@ -4,7 +4,7 @@ title: Fiche
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
 parent: Semestre 1 – Introduction
 nav_order: 1
-published: true
+published: false
 ---
 ## Fiche de la leçon
 

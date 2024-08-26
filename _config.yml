@@ -49,7 +49,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: lightb
+color_scheme: gris
 
 callouts_level: quiet # or loud
 callouts:

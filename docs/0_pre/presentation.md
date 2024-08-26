@@ -7,8 +7,6 @@ published: true
 ---
 # Présentation de la spécialité HLP en Terminale
 
-{: .highlight }
-**Refaire fiche avec nouveaux sujets bac**
 
 {: .highlight }
 >**Associant la philosophie et la littérature, cette spécialité vise à s’interroger sur le
