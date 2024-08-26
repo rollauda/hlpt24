@@ -1,6 +1,6 @@
 ## Mac mini
 
-### Jekyll
+### Jekyll. 
 
 https://runebook.dev/fr/docs/jekyll/
 
