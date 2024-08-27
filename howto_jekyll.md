@@ -16,3 +16,10 @@ bundle exec jekyll serve --livereload
 ```
 
 http://localhost:4000/hlpt
+
+--- 
+
+Version Jejyll
+0.6.0 dans gemfile
+rm Gemfile.lock
+bundle install
