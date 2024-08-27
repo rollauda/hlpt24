@@ -19,7 +19,8 @@ http://localhost:4000/hlpt
 
 --- 
 
-Version Jejyll
+## Version Jekyll : garder 0.5.0
+
 0.6.0 dans gemfile
 rm Gemfile.lock
 bundle install
