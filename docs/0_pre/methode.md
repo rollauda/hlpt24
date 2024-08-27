@@ -11,7 +11,7 @@ published: true
 > MÉTHODE
 > 
 > La spécialité est évaluée à l'écrit en Terminale (durée : 4 heures ; note sur 20 ; coefficient : 16).  
-> L'épreuve a lieu au mois de mars (changement possible pour la session 2024). Le sujet est un texte (littéraire ou philosophique) accompagné de **deux questions** (une philosophique et l’autre littéraire, chacune notée sur 10) :
+> L'épreuve a lieu au mois de juin. Le sujet est un texte (littéraire ou philosophique) accompagné de **deux questions** (une philosophique et l’autre littéraire, chacune notée sur 10) :
 
 {: .important-title }
 > **1. Une question d'interprétation**
