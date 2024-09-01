@@ -10,5 +10,5 @@ nav_order: 1
 > - **Accès aux leçons** : menu à gauche
 > - Vous pouvez faire une **recherche par mots clés** en haut du site en cliquant sur l'icône 🔍
 >
-> *Rolland Auda, La Condamine, Quito, 2023-2024*
+> *Rolland Auda, La Condamine, Quito, 2024-2025*
 
