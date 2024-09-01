@@ -1,11 +1,10 @@
 title: STHLP Conda
 description: Documents des leçons de Spécialité Terminale HLP de R. Auda, 2024 - 2025
 theme: just-the-docs
-baseurl: "/hlpt24" # the subpath of your site, e.g. /blog
-url: https://rollauda.github.io/
+url: https://hlpt.profauda.fr
 repository: rollauda/hlpt24 # for github-metadata
 aux_links:
-  Accueil-Auda: https://rollauda.github.io
+  Accueil-Auda: https://profauda.fr
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
