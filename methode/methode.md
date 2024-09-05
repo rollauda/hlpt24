@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Méthode
-parent: Présentation HLP
 has_children: true
-nav_order: 2
-published: false
+nav_order: 20
+published: true
 ---
 
 {: .gris2-title }

@@ -2,7 +2,7 @@
 title: Présentation HLP
 layout: default
 nav_order: 2
-has_children: true
+has_children: false
 has_toc: true
 published: true
 ---
@@ -20,3 +20,5 @@ la connaissance de soi, l’avenir de l’humanité, etc.
 >> - Cette spécialité privilégie des approches diverses (philosophique et littéraire, mais
 aussi anthropologique, psychologique et esthétique), et sollicite des supports variés
 (textes anciens et contemporains, œuvres d’art, films, documentaires, etc.)
+
+{% pdf "../../assets/pdf/presentation/presentation.pdf" width=100% height=750px no_link %}
